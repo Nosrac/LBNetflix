@@ -3,4 +3,4 @@ LBNetflix
 
 Search Netflix from Launchbar (with suggestions)
 
-!(https://raw.githubusercontent.com/Nosrac/LBNetflix/master/example.png)[Example Image]
+!(Example Image)[https://raw.githubusercontent.com/Nosrac/LBNetflix/master/example.png]
