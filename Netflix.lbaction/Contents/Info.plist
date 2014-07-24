@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIconFile</key>
-	<string>NetflixTemplate</string>
+	<string>Netflix</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.kyleacarson.LaunchBar.action.Netflix</string>
 	<key>CFBundleName</key>
